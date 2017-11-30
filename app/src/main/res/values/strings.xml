@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba etiquetas flotantes</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre</string>
+    <string name="pass">Password</string>
+    <string name="mandatory">Se requiere introducir el campo</string>
+    <string name="validar">Validar</string>
+    <string name="action_validate">Ejecutada la acción validar</string>
+</resources>
